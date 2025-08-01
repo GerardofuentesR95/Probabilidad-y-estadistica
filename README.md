@@ -1,1 +1,2 @@
-# Probabilidad-y-estadistica
+# Probabilidad-y-estadistica 
+Analisis de consumo del consumo de datos de dos empresas telefonicas, para este proyecto se utilizó lenguaje de programación python y las librerías de matplotlib, pandas y seaborn
